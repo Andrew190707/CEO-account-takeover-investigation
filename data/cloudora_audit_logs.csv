@@ -1,0 +1,14 @@
+TimeGenerated,ActivityDisplayName,InitiatedBy,TargetUser,IPAddress,Result,Details
+2026-08-03T10:22:10Z,Update user,it.admin@cloudora.io,isla.grant@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-03T16:05:28Z,Update user,it.admin@cloudora.io,finn.gale@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-04T12:17:36Z,Reset user password,it.admin@cloudora.io,lena.voss@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-04T16:37:19Z,Add member to group,it.admin@cloudora.io,lucas.ford@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-04T16:45:39Z,Update user,it.admin@cloudora.io,ryan.boyd@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-05T13:43:57Z,Reset user password,it.admin@cloudora.io,dina.said@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-06T14:50:24Z,Update user,it.admin@cloudora.io,zara.aziz@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-07T12:28:26Z,Add member to group,it.admin@cloudora.io,ryan.boyd@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-07T16:34:12Z,Update user,it.admin@cloudora.io,dean.page@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-10T03:18:44Z,User registered security info,daniel.reeve@cloudora.io,daniel.reeve@cloudora.io,102.89.44.17,Success,Authenticator app added: device 'Pixel 6'
+2026-08-10T03:31:09Z,New inbox rule created,daniel.reeve@cloudora.io,daniel.reeve@cloudora.io,102.89.44.17,Success,"Rule 'RSS Subscriptions': if from finance@cloudora.io or contains 'invoice' -> move to RSS Feeds, mark read"
+2026-08-10T14:52:04Z,Update user,it.admin@cloudora.io,seth.lane@cloudora.io,203.0.113.12,Success,Routine IT administration
+2026-08-10T16:50:29Z,Reset user password,it.admin@cloudora.io,james.holt@cloudora.io,203.0.113.12,Success,Routine IT administration

@@ -1,0 +1,110 @@
+// ============================================================================
+//  CLOUDORA | CEO ACCOUNT TAKEOVER — INVESTIGATION QUERIES
+//  Ticket CLD-0001 | daniel.reeve@cloudora.io
+//  Tables: CloudoraSignIn_CL, CloudoraAudit_CL
+// ============================================================================
+
+// --- STEP 0: sanity check -----------------------------------------------
+CloudoraSignIn_CL
+| count
+
+
+// --- STEP 1: triage the alert — is the Lagos sign-in real? --------------
+CloudoraSignIn_CL
+| where UserPrincipalName == "daniel.reeve@cloudora.io"
+| where TimeGenerated between (datetime(2026-08-10) .. datetime(2026-08-11))
+| project TimeGenerated, AppDisplayName, IPAddress, City, Country, ResultType, ResultDescription
+| order by TimeGenerated asc
+
+
+// --- STEP 2: baseline the account, rule out innocent explanation --------
+CloudoraSignIn_CL
+| where UserPrincipalName == "daniel.reeve@cloudora.io"
+| summarize SignIns=count(), FirstSeen=min(TimeGenerated), LastSeen=max(TimeGenerated) by Country, City, IPAddress
+| order by SignIns desc
+
+// comparison baseline — omar.farah is the OTHER account with a new country
+// this week (Dubai). Run to compare travel vs takeover.
+CloudoraSignIn_CL
+| where UserPrincipalName == "omar.farah@cloudora.io"
+| summarize SignIns=count(), FirstSeen=min(TimeGenerated), LastSeen=max(TimeGenerated) by Country, City, IPAddress
+| order by SignIns desc
+
+
+// --- STEP 3: find the attack that came first -----------------------------
+CloudoraSignIn_CL
+| where ResultType == "50126"
+| summarize Failures=count(), TargetedAccounts=dcount(UserPrincipalName) by IPAddress, Country
+| order by Failures desc
+
+// confirm attack window
+CloudoraSignIn_CL
+| where IPAddress startswith "102.89."
+| summarize Attempts=count() by bin(TimeGenerated, 1d), ResultType
+
+
+// --- STEP 4: persistence — what did they change after getting in --------
+CloudoraAudit_CL
+| where IPAddress startswith "102.89."
+| project TimeGenerated, ActivityDisplayName, TargetUser, Details
+| order by TimeGenerated asc
+
+
+// --- STEP 5: scope it — is anyone else compromised -----------------------
+CloudoraSignIn_CL
+| where IPAddress startswith "102.89." and ResultType == "0"
+| summarize by UserPrincipalName, IPAddress, TimeGenerated
+| order by TimeGenerated asc
+
+
+// ============================================================================
+//  SECOND VICTIM — priya.nair@cloudora.io
+// ============================================================================
+
+// Move 1 — timeline of attacker activity on this account
+CloudoraSignIn_CL
+| where UserPrincipalName == "priya.nair@cloudora.io"
+| where IPAddress startswith "102.89."
+| project TimeGenerated, AppDisplayName, IPAddress, ResultType, ResultDescription
+| order by TimeGenerated asc
+
+// Move 2 — baseline, rule out innocent explanation
+CloudoraSignIn_CL
+| where UserPrincipalName == "priya.nair@cloudora.io"
+| summarize SignIns=count(), FirstSeen=min(TimeGenerated), LastSeen=max(TimeGenerated) by Country, City, IPAddress
+| order by SignIns desc
+
+// Move 3 — persistence check
+CloudoraAudit_CL
+| where TargetUser == "priya.nair@cloudora.io"
+| project TimeGenerated, ActivityDisplayName, InitiatedBy, IPAddress, Details
+| order by TimeGenerated asc
+
+
+// ============================================================================
+//  TASK — near-miss list: accounts targeted but never breached
+//  (needed for scoped, precautionary password resets)
+// ============================================================================
+let Breached = CloudoraSignIn_CL
+    | where IPAddress startswith "102.89." and ResultType == "0"
+    | distinct UserPrincipalName;
+CloudoraSignIn_CL
+| where IPAddress startswith "102.89." and ResultType == "50126"
+| where UserPrincipalName !in (Breached)
+| summarize Attempts=count(), FirstAttempt=min(TimeGenerated), LastAttempt=max(TimeGenerated) by UserPrincipalName
+| order by Attempts desc
+
+
+// ============================================================================
+//  TASK — detection rule: catch a spray on night one, before any breach
+// ============================================================================
+// Scheduled analytics rule — run every 6h over the last 6h of data
+CloudoraSignIn_CL
+| where TimeGenerated > ago(6h)
+| where ResultType == "50126"
+| summarize Failures = count(),
+            TargetedAccounts = dcount(UserPrincipalName),
+            SampleAccounts = make_set(UserPrincipalName, 5)
+            by IPAddress, Country
+| where TargetedAccounts >= 10
+| order by TargetedAccounts desc

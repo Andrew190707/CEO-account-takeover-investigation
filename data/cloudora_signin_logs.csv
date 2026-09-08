@@ -1,0 +1,1480 @@
+TimeGenerated,UserPrincipalName,AppDisplayName,IPAddress,City,Country,ResultType,ResultDescription,DeviceOS,Browser
+2026-08-03T07:35:55Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,50126,Invalid username or password,Android 14,Chrome Mobile
+2026-08-03T07:36:19Z,noah.bishop@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T07:37:21Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T07:41:12Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T08:02:49Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T08:06:36Z,lucas.ford@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T08:13:46Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T08:19:50Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T08:20:05Z,hugo.marsh@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T08:21:28Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T08:28:09Z,isla.grant@cloudora.io,Cloudora Admin Portal,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T08:36:54Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-03T08:37:30Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T08:41:10Z,ethan.wells@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T08:42:14Z,mira.shah@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T08:43:51Z,cole.burke@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T08:50:46Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T08:52:12Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T08:53:12Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T08:54:12Z,leah.stone@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T09:04:54Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T09:06:14Z,olivia.kaur@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T09:20:50Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T09:23:08Z,mira.shah@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T09:23:53Z,lucas.ford@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T09:30:15Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T09:37:22Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T09:38:50Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T09:39:11Z,dina.said@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T09:53:33Z,hugo.marsh@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T09:57:48Z,emma.hayes@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T10:01:07Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T10:01:30Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T10:02:43Z,nina.cole@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T10:03:34Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T10:12:00Z,seth.lane@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T10:16:45Z,dina.said@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T10:27:54Z,emma.hayes@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T10:28:09Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T10:30:19Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T10:30:20Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T10:30:50Z,ethan.wells@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T10:36:52Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T10:42:21Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T10:42:24Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T10:45:18Z,jude.ross@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T10:50:48Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T10:51:17Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T10:53:04Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T10:55:01Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T10:56:00Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T10:56:06Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T10:57:01Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T10:59:56Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T11:10:31Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T11:23:34Z,ruth.dean@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T11:25:35Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T11:28:26Z,adam.clark@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T11:28:54Z,dina.said@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T11:29:08Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T11:32:43Z,felix.hart@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T11:34:02Z,noah.bishop@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T11:35:12Z,ethan.wells@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T11:36:35Z,jude.ross@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T11:42:37Z,zara.aziz@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T11:43:21Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T11:45:31Z,ethan.wells@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T12:03:56Z,gwen.muir@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T12:05:27Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T12:07:39Z,sofia.marino@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T12:16:20Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T12:17:10Z,adam.clark@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T12:18:54Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T12:21:25Z,rhys.owen@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T12:23:12Z,rhys.owen@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T12:29:34Z,felix.hart@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T12:33:07Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-03T12:34:52Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T12:39:05Z,james.holt@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T12:41:14Z,leah.stone@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T12:42:31Z,jude.ross@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T12:44:22Z,jude.ross@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T12:47:19Z,cole.burke@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T12:51:13Z,isla.grant@cloudora.io,SharePoint Online,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T12:54:50Z,mira.shah@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T12:58:10Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T12:59:02Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T13:02:40Z,dean.page@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T13:03:06Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T13:05:15Z,freya.lynn@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T13:08:17Z,gwen.muir@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T13:09:24Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-03T13:10:12Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T13:11:04Z,hugo.marsh@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T13:11:17Z,rhys.owen@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T13:19:00Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-03T13:19:09Z,isla.grant@cloudora.io,Azure Portal,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T13:21:48Z,felix.hart@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T13:26:07Z,sofia.marino@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T13:26:12Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T13:36:52Z,aria.reid@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T13:40:28Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T13:54:16Z,jude.ross@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T13:56:15Z,ethan.wells@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T13:56:37Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T13:57:37Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T13:58:08Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T13:58:18Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T14:08:16Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-03T14:08:41Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T14:10:43Z,rhys.owen@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T14:13:58Z,ryan.boyd@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T14:16:22Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T14:20:10Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T14:21:55Z,finn.gale@cloudora.io,Azure Portal,198.51.100.24,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-03T14:23:15Z,finn.gale@cloudora.io,Azure Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T14:27:34Z,lucas.ford@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T14:27:38Z,tara.kemp@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T14:28:14Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T14:32:44Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-03T14:35:29Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T14:39:47Z,dina.said@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T14:41:31Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T14:47:22Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T14:48:44Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T14:49:50Z,alba.vega@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-03T14:50:33Z,alba.vega@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T15:02:35Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T15:03:15Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T15:06:55Z,chloe.price@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T15:16:30Z,dean.page@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T15:18:46Z,gwen.muir@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T15:23:54Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T15:25:40Z,mira.shah@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T15:27:03Z,maya.chen@cloudora.io,Cloudora Admin Portal,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T15:27:28Z,ruth.dean@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-03T15:28:28Z,ruth.dean@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T15:31:14Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T15:35:30Z,ethan.wells@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T15:43:48Z,priya.nair@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T15:45:19Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T15:54:05Z,seth.lane@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T15:57:11Z,arjun.mehta@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T15:57:19Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T15:58:19Z,aria.reid@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T15:58:41Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T15:59:42Z,jude.ross@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T16:00:19Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T16:01:21Z,dean.page@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-03T16:01:52Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T16:02:59Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T16:03:44Z,noah.bishop@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T16:08:02Z,tara.kemp@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T16:08:32Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T16:14:53Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T16:20:40Z,zara.aziz@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T16:22:04Z,dina.said@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T16:32:19Z,hugo.marsh@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T16:35:18Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T16:39:37Z,joel.kerr@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T16:42:19Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T16:47:13Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T16:55:46Z,olivia.kaur@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T17:02:19Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T17:10:48Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T17:10:52Z,freya.lynn@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-03T17:11:21Z,freya.lynn@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T17:14:01Z,zara.aziz@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T17:17:45Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T17:18:37Z,arjun.mehta@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T17:20:03Z,freya.lynn@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T17:28:15Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T17:47:55Z,ruth.dean@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T17:49:45Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T17:53:21Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T17:54:18Z,nina.cole@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T17:57:05Z,liam.doyle@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T18:00:52Z,sofia.marino@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T18:01:19Z,james.holt@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T18:02:15Z,amelia.frost@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T18:03:27Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T18:03:33Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T18:07:00Z,ryan.boyd@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-03T18:07:39Z,james.holt@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T18:07:50Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T18:08:37Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T18:13:37Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T18:18:11Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T18:19:55Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-03T18:20:48Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T18:21:23Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T18:28:04Z,finn.gale@cloudora.io,Azure Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-03T18:29:45Z,joel.kerr@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T18:31:56Z,liam.doyle@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T18:33:43Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-03T18:49:05Z,felix.hart@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-03T18:51:10Z,felix.hart@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-03T18:51:53Z,amelia.frost@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-03T18:53:27Z,cole.burke@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-03T19:08:13Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-03T19:14:42Z,amelia.frost@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T19:15:37Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-03T19:16:41Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T19:16:42Z,finn.gale@cloudora.io,Outlook Web,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-03T19:20:15Z,daniel.reeve@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-03T19:25:23Z,dean.page@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T07:32:56Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T07:35:18Z,arjun.mehta@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T07:46:40Z,priya.nair@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T07:47:06Z,gwen.muir@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T07:48:50Z,mira.shah@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-04T07:48:57Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T07:55:54Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T07:57:31Z,isla.grant@cloudora.io,SharePoint Online,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T07:59:13Z,james.holt@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-04T07:59:49Z,james.holt@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T08:00:28Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T08:01:24Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T08:02:03Z,olivia.kaur@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T08:03:24Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T08:05:54Z,chloe.price@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T08:07:25Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T08:08:52Z,felix.hart@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T08:11:50Z,leah.stone@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T08:14:17Z,ethan.wells@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-04T08:17:45Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T08:20:53Z,arjun.mehta@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T08:22:35Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T08:23:28Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T08:28:20Z,dina.said@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T08:31:13Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T08:38:54Z,maya.chen@cloudora.io,Microsoft Teams,203.0.113.11,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T08:45:28Z,kian.patel@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T08:51:53Z,olivia.kaur@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T08:52:23Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T08:53:03Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T08:55:36Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T08:57:58Z,hugo.marsh@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T08:58:22Z,lucas.ford@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T08:59:11Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T09:01:08Z,cole.burke@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:03:17Z,joel.kerr@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T09:03:35Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T09:05:15Z,olivia.kaur@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T09:11:34Z,sofia.marino@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:13:26Z,cole.burke@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:13:31Z,priya.nair@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:16:32Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T09:21:14Z,isla.grant@cloudora.io,Cloudora Admin Portal,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:21:51Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T09:23:39Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:33:54Z,ruth.dean@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:35:04Z,adam.clark@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T09:35:30Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T09:36:54Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T09:40:37Z,arjun.mehta@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T09:45:33Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T09:53:50Z,priya.nair@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T09:59:22Z,noah.bishop@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T10:05:16Z,gwen.muir@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-04T10:06:36Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T10:09:27Z,liam.doyle@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T10:12:00Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T10:13:17Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T10:21:29Z,isla.grant@cloudora.io,Azure Portal,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T10:27:09Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T10:30:39Z,olivia.kaur@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T10:31:15Z,james.holt@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T10:35:08Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T10:47:33Z,rhys.owen@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T10:48:16Z,ruth.dean@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T10:48:45Z,noah.bishop@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T10:56:02Z,felix.hart@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T10:56:54Z,rhys.owen@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T10:58:52Z,ryan.boyd@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T10:59:21Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T11:01:36Z,daniel.reeve@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T11:02:51Z,maya.chen@cloudora.io,Azure Portal,203.0.113.11,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T11:05:37Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T11:05:50Z,priya.nair@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T11:08:00Z,liam.doyle@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T11:09:39Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T11:20:49Z,aria.reid@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T11:22:04Z,ethan.wells@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T11:23:03Z,joel.kerr@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T11:23:22Z,adam.clark@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T11:29:58Z,zara.aziz@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T11:31:33Z,nina.cole@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-04T11:32:10Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T11:42:39Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T11:43:27Z,leah.stone@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T11:54:11Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-04T11:54:32Z,mira.shah@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T11:54:46Z,liam.doyle@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T11:55:25Z,noah.bishop@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T11:56:09Z,liam.doyle@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T11:58:38Z,mira.shah@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T12:09:45Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T12:10:12Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T12:15:13Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-04T12:16:00Z,chloe.price@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T12:23:00Z,cole.burke@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T12:24:07Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T12:27:23Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T12:28:48Z,maya.chen@cloudora.io,Azure Portal,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T12:31:36Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T12:35:14Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T12:39:42Z,hugo.marsh@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T12:41:44Z,lucas.ford@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T12:44:31Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T12:50:25Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T12:50:33Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T12:54:39Z,kian.patel@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T12:59:14Z,hugo.marsh@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T13:04:44Z,aria.reid@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T13:05:15Z,jude.ross@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T13:06:08Z,aria.reid@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T13:08:17Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T13:08:24Z,nina.cole@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T13:20:08Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T13:23:57Z,ethan.wells@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-04T13:26:33Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T13:27:46Z,rhys.owen@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T13:32:01Z,ruth.dean@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T13:35:29Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T13:38:06Z,adam.clark@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T13:39:37Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T13:41:56Z,alba.vega@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T13:47:40Z,zara.aziz@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T13:47:58Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T13:57:19Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T14:03:37Z,priya.nair@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T14:03:59Z,jude.ross@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T14:05:08Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T14:09:22Z,felix.hart@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T14:09:23Z,tara.kemp@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-04T14:10:30Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T14:11:12Z,lucas.ford@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T14:12:08Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T14:12:58Z,ryan.boyd@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T14:22:23Z,priya.nair@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T14:25:08Z,ryan.boyd@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T14:37:36Z,chloe.price@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T14:46:08Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T14:47:27Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T14:48:50Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T14:49:14Z,daniel.reeve@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T14:52:27Z,arjun.mehta@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-04T14:53:20Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T14:53:21Z,arjun.mehta@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T15:05:36Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T15:11:15Z,cole.burke@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T15:12:39Z,noah.bishop@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-04T15:12:57Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-04T15:13:30Z,noah.bishop@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T15:13:39Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T15:15:14Z,freya.lynn@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T15:28:46Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T15:31:04Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T15:31:35Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T15:41:20Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T16:06:02Z,alba.vega@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T16:06:53Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T16:09:13Z,maya.chen@cloudora.io,Cloudora Admin Portal,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T16:09:17Z,isla.grant@cloudora.io,Azure Portal,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T16:14:36Z,gwen.muir@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T16:26:07Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T16:27:24Z,james.holt@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T16:27:25Z,arjun.mehta@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T16:27:52Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T16:28:26Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T16:38:12Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T16:38:12Z,aria.reid@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T16:39:57Z,finn.gale@cloudora.io,Microsoft Teams,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T16:40:29Z,chloe.price@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T16:42:38Z,dean.page@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T16:42:56Z,joel.kerr@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-04T16:44:39Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T16:46:15Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T16:54:34Z,isla.grant@cloudora.io,SharePoint Online,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T16:56:50Z,noah.bishop@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T16:57:13Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T16:58:55Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T17:00:31Z,alba.vega@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T17:00:32Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-04T17:01:39Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-04T17:01:59Z,lena.voss@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T17:07:35Z,dina.said@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T17:07:36Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T17:09:13Z,lena.voss@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T17:16:41Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T17:17:04Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T17:18:57Z,felix.hart@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T17:22:31Z,liam.doyle@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T17:28:12Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T17:29:09Z,joel.kerr@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T17:34:16Z,james.holt@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T17:37:13Z,ruth.dean@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-04T17:39:20Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T17:53:39Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T17:58:36Z,felix.hart@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T18:08:10Z,amelia.frost@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T18:10:38Z,dean.page@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-04T18:12:39Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-04T18:21:03Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T18:25:15Z,james.holt@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-04T18:51:32Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T18:53:38Z,cole.burke@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-04T18:55:11Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T18:57:01Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T18:57:18Z,maya.chen@cloudora.io,Microsoft 365,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-04T19:05:00Z,freya.lynn@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-04T19:07:52Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T19:19:16Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-04T19:26:39Z,dina.said@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-04T19:27:40Z,mira.shah@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-04T19:28:55Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-04T19:28:55Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T07:34:18Z,amelia.frost@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T07:35:17Z,alba.vega@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T07:41:53Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T07:50:08Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T07:58:46Z,daniel.reeve@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T08:01:02Z,liam.doyle@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T08:04:55Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T08:07:28Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T08:13:24Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T08:14:11Z,freya.lynn@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T08:27:18Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T08:37:32Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T08:40:34Z,hugo.marsh@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T08:43:41Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T08:45:42Z,cole.burke@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T08:46:42Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T08:47:09Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T08:49:20Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T08:51:40Z,lucas.ford@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T08:53:54Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T08:55:10Z,lena.voss@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T08:55:26Z,ethan.wells@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T09:06:40Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T09:10:27Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T09:10:31Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T09:11:11Z,ryan.boyd@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T09:11:20Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T09:12:10Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T09:12:19Z,cole.burke@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T09:15:14Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T09:15:19Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T09:21:53Z,chloe.price@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T09:25:52Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T09:42:57Z,zara.aziz@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T09:44:56Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T09:46:16Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T09:53:51Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T09:54:25Z,rhys.owen@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T09:54:56Z,alba.vega@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T10:06:28Z,adam.clark@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T10:09:28Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T10:12:13Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T10:14:50Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T10:17:22Z,freya.lynn@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-05T10:18:40Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T10:21:30Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T10:23:20Z,chloe.price@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T10:24:01Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T10:24:58Z,priya.nair@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T10:25:04Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T10:30:31Z,finn.gale@cloudora.io,Azure Portal,198.51.100.24,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T10:38:42Z,ethan.wells@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-05T10:44:00Z,adam.clark@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T10:45:47Z,liam.doyle@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T10:47:00Z,sofia.marino@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T10:47:17Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T10:51:09Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T10:56:53Z,arjun.mehta@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T11:00:34Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T11:06:42Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T11:06:50Z,isla.grant@cloudora.io,Azure Portal,203.0.113.15,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T11:07:16Z,zara.aziz@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T11:15:20Z,kian.patel@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T11:16:00Z,james.holt@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T11:19:45Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T11:19:55Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T11:24:44Z,james.holt@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T11:24:55Z,rhys.owen@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T11:26:31Z,olivia.kaur@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T11:28:18Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T11:42:52Z,aria.reid@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T11:43:54Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T11:59:03Z,daniel.reeve@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T11:59:44Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T12:00:11Z,gwen.muir@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T12:04:15Z,jude.ross@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T12:04:22Z,kian.patel@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T12:06:27Z,lena.voss@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T12:07:09Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T12:12:53Z,finn.gale@cloudora.io,Azure Portal,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T12:13:08Z,chloe.price@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T12:19:51Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T12:20:50Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T12:28:45Z,jude.ross@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T12:29:42Z,emma.hayes@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T12:31:12Z,dina.said@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T12:31:45Z,amelia.frost@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T12:35:46Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T12:41:09Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-05T12:45:59Z,rhys.owen@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T12:51:22Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T12:53:54Z,arjun.mehta@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T12:54:10Z,dean.page@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T12:55:49Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-05T12:56:23Z,mira.shah@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T12:57:53Z,gwen.muir@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T12:59:39Z,daniel.reeve@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T13:00:41Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T13:02:33Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T13:06:23Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T13:08:54Z,kian.patel@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T13:13:23Z,isla.grant@cloudora.io,Microsoft 365,203.0.113.15,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T13:13:57Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T13:14:45Z,olivia.kaur@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-05T13:15:27Z,dina.said@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T13:15:35Z,olivia.kaur@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T13:18:12Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T13:18:42Z,jude.ross@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T13:24:47Z,joel.kerr@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T13:27:12Z,zara.aziz@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T13:30:20Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T13:31:57Z,james.holt@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T13:32:19Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T13:48:07Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T13:48:54Z,lucas.ford@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T13:51:27Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T13:56:04Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T13:57:14Z,ruth.dean@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T14:01:41Z,noah.bishop@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T14:03:41Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T14:05:55Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T14:09:50Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-05T14:11:20Z,tara.kemp@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T14:15:21Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T14:15:45Z,felix.hart@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T14:17:55Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T14:22:29Z,lucas.ford@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T14:25:23Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T14:36:47Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T14:37:44Z,alba.vega@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T14:38:00Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T14:38:31Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T14:40:28Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-05T14:40:37Z,tara.kemp@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T14:49:27Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T14:50:33Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T14:53:54Z,liam.doyle@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T14:56:30Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T14:57:05Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T15:10:10Z,maya.chen@cloudora.io,Cloudora Admin Portal,203.0.113.11,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T15:15:28Z,arjun.mehta@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T15:23:04Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T15:23:50Z,dina.said@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T15:25:46Z,tara.kemp@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T15:33:25Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T15:34:46Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T15:37:32Z,james.holt@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T15:40:00Z,daniel.reeve@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T15:47:15Z,cole.burke@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T15:57:55Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T16:03:31Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T16:05:48Z,dina.said@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T16:08:42Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T16:11:55Z,hugo.marsh@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T16:14:28Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T16:20:35Z,dean.page@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T16:27:35Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-05T16:28:03Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T16:28:19Z,cole.burke@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T16:33:03Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T16:34:45Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T16:36:59Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T16:37:40Z,ruth.dean@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T16:39:15Z,lucas.ford@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T16:48:42Z,dean.page@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T16:54:33Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T16:57:30Z,noah.bishop@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T16:59:57Z,olivia.kaur@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T17:05:03Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T17:09:17Z,alba.vega@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-05T17:11:44Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T17:13:15Z,chloe.price@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T17:22:01Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T17:23:08Z,ruth.dean@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-05T17:24:24Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T17:40:01Z,zara.aziz@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T17:42:05Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T17:42:54Z,gwen.muir@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T17:50:36Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T17:58:34Z,priya.nair@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T18:01:15Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T18:04:21Z,ryan.boyd@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T18:06:06Z,kian.patel@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T18:09:32Z,felix.hart@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-05T18:10:27Z,felix.hart@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T18:15:12Z,felix.hart@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T18:15:21Z,sofia.marino@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T18:17:40Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T18:21:57Z,liam.doyle@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T18:21:59Z,jude.ross@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T18:29:07Z,leah.stone@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T18:29:28Z,leah.stone@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T18:32:04Z,lena.voss@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T18:32:46Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T18:35:34Z,ethan.wells@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-05T18:38:50Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T18:40:19Z,mira.shah@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T18:45:32Z,leah.stone@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T18:49:38Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-05T18:55:50Z,joel.kerr@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-05T18:57:54Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-05T18:59:11Z,hugo.marsh@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T18:59:17Z,james.holt@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T18:59:47Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T19:02:52Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-05T19:04:29Z,joel.kerr@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-05T19:05:45Z,cole.burke@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-05T19:06:33Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-05T19:07:07Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-05T19:11:34Z,alba.vega@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T19:15:10Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-05T19:18:54Z,cole.burke@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-05T19:20:16Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-05T19:25:30Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-05T19:26:45Z,emma.hayes@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T07:31:45Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T07:32:49Z,jude.ross@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T07:36:47Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T07:42:04Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T07:44:50Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T07:50:12Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T07:52:47Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T07:55:36Z,rhys.owen@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T08:01:50Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T08:11:46Z,ethan.wells@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T08:12:41Z,freya.lynn@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T08:13:01Z,isla.grant@cloudora.io,Cloudora Admin Portal,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T08:14:11Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T08:25:58Z,lucas.ford@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T08:27:08Z,dina.said@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T08:43:31Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T08:56:44Z,maya.chen@cloudora.io,Cloudora Admin Portal,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T08:57:29Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-06T08:58:42Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T09:00:21Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T09:08:49Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T09:14:12Z,mira.shah@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-06T09:16:57Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T09:17:06Z,dina.said@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T09:29:35Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T09:29:43Z,tara.kemp@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T09:31:48Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T09:32:52Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T09:34:38Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-06T09:39:48Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T09:59:31Z,ruth.dean@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T10:01:42Z,nina.cole@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T10:03:43Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T10:07:25Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T10:09:38Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T10:11:44Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-06T10:11:54Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T10:12:53Z,hugo.marsh@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T10:24:14Z,amelia.frost@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T10:30:22Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T10:37:02Z,maya.chen@cloudora.io,Microsoft Teams,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T10:40:03Z,alba.vega@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T10:41:17Z,jude.ross@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T10:42:45Z,freya.lynn@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,Android 14,Chrome Mobile
+2026-08-06T10:43:54Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T10:44:24Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-06T10:45:22Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T10:48:07Z,joel.kerr@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T10:55:38Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T11:02:01Z,gwen.muir@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T11:02:40Z,hugo.marsh@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T11:07:07Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T11:11:37Z,chloe.price@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T11:13:39Z,olivia.kaur@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T11:13:46Z,ethan.wells@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-06T11:14:32Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T11:19:17Z,ryan.boyd@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T11:22:26Z,felix.hart@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-06T11:26:14Z,arjun.mehta@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-06T11:27:11Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T11:28:30Z,nina.cole@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T11:28:35Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T11:32:24Z,aria.reid@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T11:34:05Z,mira.shah@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-06T11:37:49Z,gwen.muir@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T11:38:18Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T11:38:44Z,joel.kerr@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-06T11:59:41Z,isla.grant@cloudora.io,Microsoft Teams,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T12:05:53Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T12:06:34Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T12:09:24Z,jude.ross@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T12:09:35Z,finn.gale@cloudora.io,Outlook Web,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T12:12:46Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-06T12:13:28Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T12:13:46Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T12:15:54Z,mira.shah@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-06T12:16:02Z,aria.reid@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T12:21:17Z,finn.gale@cloudora.io,Microsoft 365,198.51.100.24,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T12:28:32Z,cole.burke@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-06T12:33:35Z,amelia.frost@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T12:42:38Z,leah.stone@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T12:43:19Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T12:49:00Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T12:54:01Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T13:11:05Z,jude.ross@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T13:11:28Z,dean.page@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-06T13:12:59Z,rhys.owen@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T13:22:50Z,jude.ross@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T13:23:11Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T13:24:18Z,chloe.price@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T13:27:47Z,maya.chen@cloudora.io,Azure Portal,203.0.113.11,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T13:36:23Z,lucas.ford@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T13:42:42Z,finn.gale@cloudora.io,Outlook Web,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T13:43:18Z,amelia.frost@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T13:47:26Z,lucas.ford@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T13:56:37Z,olivia.kaur@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T14:00:34Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T14:04:11Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T14:08:22Z,dina.said@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T14:09:01Z,emma.hayes@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T14:09:28Z,rhys.owen@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T14:16:24Z,alba.vega@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T14:22:21Z,mira.shah@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T14:34:53Z,liam.doyle@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T14:37:53Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T14:42:21Z,jude.ross@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-06T14:43:18Z,jude.ross@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T14:43:29Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T14:48:40Z,ethan.wells@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-06T14:48:49Z,aria.reid@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T15:02:22Z,liam.doyle@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T15:09:12Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T15:11:05Z,nina.cole@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T15:11:45Z,olivia.kaur@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T15:12:39Z,sofia.marino@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T15:13:13Z,dean.page@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T15:13:33Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-06T15:16:04Z,amelia.frost@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T15:16:33Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T15:21:34Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T15:22:11Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T15:23:21Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T15:30:02Z,felix.hart@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-06T15:31:54Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T15:34:50Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T15:39:35Z,james.holt@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T15:44:48Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T15:45:51Z,felix.hart@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-06T15:50:20Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-06T15:56:51Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T16:03:54Z,noah.bishop@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T16:08:44Z,nina.cole@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T16:17:49Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T16:27:54Z,mira.shah@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-06T16:34:13Z,priya.nair@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T16:37:47Z,chloe.price@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-06T16:38:10Z,chloe.price@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T16:48:26Z,isla.grant@cloudora.io,Microsoft 365,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T16:51:41Z,ruth.dean@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-06T16:55:37Z,arjun.mehta@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T16:56:05Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T16:56:57Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T16:59:49Z,liam.doyle@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T17:02:41Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-06T17:10:59Z,isla.grant@cloudora.io,Microsoft Teams,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T17:11:12Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T17:25:43Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-06T17:26:21Z,zara.aziz@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T17:32:52Z,lena.voss@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T17:39:35Z,gwen.muir@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T17:43:52Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T17:48:38Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T17:48:54Z,lucas.ford@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T17:49:15Z,liam.doyle@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T17:55:14Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T18:03:08Z,lena.voss@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-06T18:04:26Z,sofia.marino@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T18:04:37Z,cole.burke@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-06T18:05:27Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T18:06:05Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-06T18:07:23Z,hugo.marsh@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T18:13:52Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T18:14:35Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-06T18:14:35Z,lucas.ford@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T18:15:53Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T18:20:15Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T18:28:16Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T18:30:36Z,leah.stone@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-06T18:35:05Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T18:35:19Z,joel.kerr@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T18:36:32Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-06T18:37:10Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T18:44:14Z,freya.lynn@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T18:48:12Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T18:53:42Z,omar.farah@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T18:57:00Z,arjun.mehta@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T19:02:21Z,felix.hart@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-06T19:04:45Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T19:05:58Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-06T19:06:45Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T19:07:39Z,adam.clark@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-06T19:08:32Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-06T19:10:33Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T19:10:48Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T19:11:45Z,ryan.boyd@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-06T19:21:32Z,amelia.frost@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-06T19:21:55Z,james.holt@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-06T19:24:34Z,daniel.reeve@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-06T19:29:52Z,freya.lynn@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T07:33:53Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T07:35:20Z,freya.lynn@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T07:35:41Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T07:52:21Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T07:54:07Z,ryan.boyd@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T07:57:20Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T07:57:35Z,dean.page@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-07T08:04:13Z,zara.aziz@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T08:15:38Z,alba.vega@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-07T08:16:18Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T08:17:04Z,alba.vega@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T08:17:23Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T08:29:23Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T08:33:43Z,dean.page@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T08:34:39Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T08:37:47Z,noah.bishop@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T08:39:11Z,noah.bishop@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-07T08:39:16Z,ethan.wells@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-07T08:39:52Z,noah.bishop@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T08:40:29Z,lena.voss@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T08:41:28Z,nina.cole@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T08:43:11Z,amelia.frost@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T08:43:15Z,liam.doyle@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T08:46:43Z,finn.gale@cloudora.io,Microsoft 365,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T08:47:03Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-07T08:47:15Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T08:47:39Z,lucas.ford@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T08:47:48Z,ryan.boyd@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T08:48:22Z,mira.shah@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T08:54:53Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T08:55:58Z,joel.kerr@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-07T08:59:15Z,liam.doyle@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T08:59:40Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T09:06:55Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T09:09:38Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T09:10:07Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T09:13:22Z,mira.shah@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T09:20:59Z,adam.clark@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T09:21:57Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T09:26:46Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-07T09:27:25Z,adam.clark@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T09:38:27Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T09:39:35Z,jude.ross@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T09:39:56Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T09:47:55Z,james.holt@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T09:54:05Z,liam.doyle@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:01:52Z,cole.burke@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-07T10:04:49Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T10:08:04Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:09:51Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T10:10:00Z,lucas.ford@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T10:13:50Z,james.holt@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T10:21:54Z,zara.aziz@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T10:23:44Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:25:34Z,cole.burke@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:30:34Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T10:34:44Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T10:35:17Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:36:07Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:38:35Z,tara.kemp@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:38:41Z,olivia.kaur@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T10:40:13Z,amelia.frost@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T10:41:13Z,mira.shah@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-07T10:47:20Z,arjun.mehta@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T10:53:40Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T10:55:43Z,finn.gale@cloudora.io,Microsoft Teams,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T10:56:46Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T10:56:53Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T11:02:37Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T11:02:41Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T11:05:00Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T11:05:32Z,isla.grant@cloudora.io,Microsoft 365,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T11:10:09Z,isla.grant@cloudora.io,Microsoft Teams,203.0.113.15,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T11:15:41Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-07T11:15:42Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T11:16:20Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T11:16:26Z,zara.aziz@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T11:19:05Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T11:21:12Z,ethan.wells@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-07T11:22:13Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T11:22:42Z,ethan.wells@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T11:27:06Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T11:29:13Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T11:29:50Z,lucas.ford@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T11:34:10Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T11:38:41Z,joel.kerr@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-07T11:41:02Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T11:47:50Z,nina.cole@cloudora.io,Microsoft Teams,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T11:47:53Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T11:49:41Z,aria.reid@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T11:50:04Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T11:51:33Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T11:58:37Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T12:03:47Z,olivia.kaur@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T12:04:23Z,olivia.kaur@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:06:46Z,james.holt@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T12:08:23Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-07T12:09:33Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:10:03Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T12:10:23Z,alba.vega@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T12:12:21Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:13:32Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:18:39Z,noah.bishop@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T12:20:36Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T12:20:56Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-07T12:21:41Z,james.holt@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T12:22:07Z,aria.reid@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T12:22:18Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T12:22:35Z,aria.reid@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:24:25Z,lena.voss@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T12:25:13Z,priya.nair@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T12:27:47Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:28:21Z,daniel.reeve@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T12:28:21Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:30:02Z,leah.stone@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T12:33:40Z,daniel.reeve@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T12:44:53Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T12:53:31Z,maya.chen@cloudora.io,Microsoft 365,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T12:57:50Z,finn.gale@cloudora.io,Cloudora Admin Portal,198.51.100.24,Manchester,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T12:59:02Z,finn.gale@cloudora.io,Outlook Web,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T12:59:54Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T13:02:41Z,felix.hart@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T13:17:17Z,gwen.muir@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T13:18:07Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T13:20:47Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-07T13:25:24Z,lucas.ford@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T13:25:50Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T13:31:15Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T13:32:15Z,jude.ross@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T13:32:30Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T13:38:19Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T13:40:45Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T13:41:52Z,gwen.muir@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T13:42:23Z,rhys.owen@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T14:04:43Z,lucas.ford@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T14:07:23Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T14:09:07Z,isla.grant@cloudora.io,Microsoft 365,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T14:11:08Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T14:12:25Z,freya.lynn@cloudora.io,SharePoint Online,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T14:13:02Z,joel.kerr@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T14:17:12Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T14:17:34Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T14:20:54Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T14:22:46Z,isla.grant@cloudora.io,Microsoft 365,203.0.113.15,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T14:26:16Z,lena.voss@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-07T14:27:02Z,lena.voss@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T14:30:49Z,daniel.reeve@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T14:39:34Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T14:57:00Z,nina.cole@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T15:03:18Z,cole.burke@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T15:05:39Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T15:06:27Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T15:09:57Z,maya.chen@cloudora.io,Azure Portal,203.0.113.11,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T15:11:28Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T15:17:59Z,seth.lane@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-07T15:18:14Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T15:19:24Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T15:23:54Z,lucas.ford@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T15:26:45Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T15:28:33Z,ethan.wells@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-07T15:33:42Z,felix.hart@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T15:33:48Z,maya.chen@cloudora.io,Cloudora Admin Portal,203.0.113.11,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T15:34:32Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T15:35:20Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T15:37:36Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T15:43:23Z,jude.ross@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T15:43:36Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T15:45:19Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T15:46:00Z,amelia.frost@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T15:48:17Z,arjun.mehta@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T15:51:12Z,liam.doyle@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T15:52:37Z,ruth.dean@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T15:52:45Z,seth.lane@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T15:58:00Z,zara.aziz@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T16:02:49Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T16:13:54Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T16:19:09Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T16:19:22Z,adam.clark@cloudora.io,Microsoft Teams,192.0.2.30,Austin,United States,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-07T16:20:15Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-07T16:21:53Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T16:23:21Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T16:27:54Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T16:30:17Z,ryan.boyd@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T16:35:10Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T16:36:11Z,finn.gale@cloudora.io,Outlook Web,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T16:38:13Z,priya.nair@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T16:39:29Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T16:43:13Z,ethan.wells@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-07T16:56:10Z,priya.nair@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T16:58:52Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T16:59:19Z,adam.clark@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T17:06:36Z,olivia.kaur@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T17:08:23Z,finn.gale@cloudora.io,Outlook Web,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T17:09:31Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T17:14:48Z,dina.said@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T17:18:46Z,rhys.owen@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T17:22:18Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T17:23:44Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T17:32:03Z,sofia.marino@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T17:34:26Z,arjun.mehta@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T17:35:05Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T17:37:35Z,chloe.price@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T17:42:22Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T17:44:15Z,ethan.wells@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T17:48:24Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T17:53:12Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T17:54:37Z,mira.shah@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-07T17:56:29Z,zara.aziz@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T17:59:12Z,ethan.wells@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-07T18:03:24Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T18:05:02Z,arjun.mehta@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-07T18:06:44Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T18:08:13Z,tara.kemp@cloudora.io,Microsoft 365,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T18:12:56Z,ethan.wells@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-07T18:14:20Z,ethan.wells@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T18:19:47Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T18:19:59Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T18:25:20Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T18:32:48Z,olivia.kaur@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T18:40:41Z,dean.page@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T18:46:14Z,alba.vega@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-07T18:49:28Z,ryan.boyd@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T18:53:35Z,sofia.marino@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-07T18:54:11Z,sofia.marino@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T18:58:35Z,emma.hayes@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-07T18:59:01Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-07T19:01:07Z,kian.patel@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-07T19:08:31Z,cole.burke@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-07T19:16:21Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-07T19:16:51Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,50126,Invalid username or password,Android 14,Chrome Mobile
+2026-08-07T19:18:03Z,maya.chen@cloudora.io,Microsoft 365,203.0.113.11,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-07T19:27:44Z,sofia.marino@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-07T19:28:31Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T00:07:11Z,sofia.marino@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T00:16:14Z,ryan.boyd@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T00:21:48Z,mira.shah@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T00:22:28Z,rhys.owen@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T00:33:05Z,omar.farah@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T00:39:40Z,cole.burke@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T00:45:19Z,ruth.dean@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:06:11Z,omar.farah@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:10:48Z,liam.doyle@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:18:01Z,jude.ross@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:20:11Z,ryan.boyd@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:23:14Z,jude.ross@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:25:11Z,sofia.marino@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:31:11Z,liam.doyle@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:39:50Z,alba.vega@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:40:46Z,nina.cole@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T01:54:56Z,ethan.wells@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T02:03:55Z,amelia.frost@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T02:14:00Z,sofia.marino@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T02:16:18Z,seth.lane@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T02:22:31Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T02:36:42Z,lena.voss@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T02:50:00Z,cole.burke@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:03:16Z,mira.shah@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:03:49Z,nina.cole@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:12:07Z,nina.cole@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:16:43Z,priya.nair@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:17:51Z,emma.hayes@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:18:12Z,seth.lane@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:19:39Z,dina.said@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:22:23Z,lena.voss@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:22:43Z,gwen.muir@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:24:53Z,ethan.wells@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:28:57Z,cole.burke@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:32:32Z,emma.hayes@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:34:43Z,rhys.owen@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:52:43Z,priya.nair@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T03:53:11Z,ruth.dean@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T04:12:35Z,ryan.boyd@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T04:21:04Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T04:31:50Z,jude.ross@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T04:45:48Z,emma.hayes@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T04:46:56Z,alba.vega@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T04:58:17Z,lena.voss@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-08T07:53:48Z,emma.hayes@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T08:09:34Z,finn.gale@cloudora.io,Microsoft 365,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T08:37:41Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-08T08:41:25Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-08T08:45:28Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-08T09:02:53Z,emma.hayes@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T09:30:16Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-08T09:39:39Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-08T09:52:00Z,omar.farah@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-08T10:02:21Z,zara.aziz@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-08T10:15:55Z,gwen.muir@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-08T10:22:29Z,omar.farah@cloudora.io,Microsoft 365,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-08T10:31:58Z,aria.reid@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-08T10:44:31Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-08T10:44:36Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-08T10:45:45Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-08T11:18:27Z,joel.kerr@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-08T11:47:09Z,olivia.kaur@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-08T11:50:00Z,alba.vega@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-08T11:57:35Z,maya.chen@cloudora.io,Outlook Web,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T12:21:23Z,omar.farah@cloudora.io,SharePoint Online,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-08T12:22:24Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-08T12:28:15Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-08T13:24:10Z,lucas.ford@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-08T13:30:39Z,felix.hart@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-08T13:38:20Z,cole.burke@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-08T13:58:29Z,cole.burke@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-08T14:52:19Z,mira.shah@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-08T15:37:17Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T15:54:53Z,kian.patel@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-08T16:20:58Z,james.holt@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-08T16:53:57Z,omar.farah@cloudora.io,SharePoint Online,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-08T16:55:45Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-08T17:11:54Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-08T17:34:09Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-08T17:50:42Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-08T17:55:08Z,dina.said@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-08T18:39:00Z,omar.farah@cloudora.io,Outlook Web,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-08T18:41:06Z,priya.nair@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-08T19:00:29Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-08T19:13:49Z,arjun.mehta@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T00:14:28Z,liam.doyle@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T00:15:18Z,liam.doyle@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T00:19:07Z,freya.lynn@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T00:20:03Z,ryan.boyd@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T00:39:20Z,liam.doyle@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T00:45:18Z,omar.farah@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T00:56:52Z,kian.patel@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T01:01:31Z,rhys.owen@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T01:30:03Z,rhys.owen@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T01:40:46Z,priya.nair@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T01:42:08Z,aria.reid@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T01:57:27Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:00:43Z,ruth.dean@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:01:52Z,alba.vega@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:26:41Z,gwen.muir@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:29:59Z,seth.lane@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:37:39Z,omar.farah@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:40:44Z,cole.burke@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:44:05Z,priya.nair@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T02:46:29Z,leah.stone@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:04:15Z,ryan.boyd@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:10:21Z,lena.voss@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:13:32Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:24:58Z,lena.voss@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:27:10Z,kian.patel@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:36:32Z,nina.cole@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:47:25Z,joel.kerr@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:49:53Z,priya.nair@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T03:57:58Z,ethan.wells@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:04:14Z,ruth.dean@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:13:09Z,cole.burke@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:26:01Z,kian.patel@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:37:28Z,omar.farah@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:37:44Z,leah.stone@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:49:59Z,aria.reid@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T04:50:57Z,rhys.owen@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-09T07:36:58Z,olivia.kaur@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-09T07:38:09Z,noah.bishop@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-09T08:27:41Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-09T08:36:27Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-09T08:56:58Z,ruth.dean@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-09T08:58:18Z,ruth.dean@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-09T09:08:00Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T09:22:24Z,dean.page@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-09T09:28:20Z,lucas.ford@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-09T09:45:13Z,zara.aziz@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-09T09:45:35Z,zara.aziz@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-09T10:02:56Z,omar.farah@cloudora.io,Microsoft 365,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-09T10:06:48Z,isla.grant@cloudora.io,SharePoint Online,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-09T10:44:34Z,leah.stone@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-09T10:56:26Z,omar.farah@cloudora.io,Microsoft Teams,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-09T11:05:31Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-09T11:06:32Z,olivia.kaur@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-09T11:59:27Z,lucas.ford@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T12:10:29Z,cole.burke@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-09T12:28:11Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-09T12:42:35Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-09T12:58:18Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-09T13:04:41Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-09T13:55:17Z,liam.doyle@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-09T15:05:01Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T15:14:49Z,gwen.muir@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T15:43:14Z,chloe.price@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-09T15:43:50Z,omar.farah@cloudora.io,Outlook Web,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-09T16:16:24Z,omar.farah@cloudora.io,SharePoint Online,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-09T16:19:31Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T16:45:44Z,alba.vega@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-09T16:48:32Z,hugo.marsh@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T17:09:51Z,liam.doyle@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-09T17:19:18Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-09T17:33:44Z,priya.nair@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-09T17:52:44Z,priya.nair@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-09T18:45:29Z,seth.lane@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T00:31:22Z,dina.said@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T00:33:48Z,mira.shah@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T00:33:57Z,emma.hayes@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T00:35:46Z,alba.vega@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T00:35:48Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T00:47:25Z,joel.kerr@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T00:58:36Z,sofia.marino@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:00:47Z,sofia.marino@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:05:29Z,ryan.boyd@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:11:57Z,ethan.wells@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:25:58Z,isla.grant@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:37:56Z,freya.lynn@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:37:59Z,alba.vega@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:41:08Z,isla.grant@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:49:22Z,gwen.muir@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T01:56:19Z,liam.doyle@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T02:06:13Z,kian.patel@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T02:29:25Z,aria.reid@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T02:30:02Z,kian.patel@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T02:32:44Z,gwen.muir@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T02:55:34Z,cole.burke@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:09:12Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:10:41Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:12:05Z,daniel.reeve@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,0,Success,Windows 10,Chrome 125
+2026-08-10T03:12:29Z,omar.farah@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:14:30Z,daniel.reeve@cloudora.io,Outlook Web,102.89.44.17,Lagos,Nigeria,0,Success,Windows 10,Chrome 125
+2026-08-10T03:18:04Z,gwen.muir@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:26:02Z,daniel.reeve@cloudora.io,Azure Portal,102.89.44.17,Lagos,Nigeria,0,Success,Windows 10,Chrome 125
+2026-08-10T03:27:42Z,sofia.marino@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:28:08Z,ethan.wells@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:37:02Z,alba.vega@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:42:14Z,freya.lynn@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:44:55Z,priya.nair@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T03:47:18Z,priya.nair@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,0,Success,Windows 10,Chrome 125
+2026-08-10T03:52:40Z,priya.nair@cloudora.io,SharePoint Online,102.89.45.101,Lagos,Nigeria,0,Success,Windows 10,Chrome 125
+2026-08-10T04:08:15Z,kian.patel@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T04:27:28Z,cole.burke@cloudora.io,Microsoft 365,102.89.44.23,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T04:29:44Z,freya.lynn@cloudora.io,Microsoft 365,102.89.44.17,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T04:36:51Z,aria.reid@cloudora.io,Microsoft 365,102.89.45.101,Lagos,Nigeria,50126,Invalid username or password,Windows 10,Chrome 125
+2026-08-10T07:31:11Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T07:40:37Z,arjun.mehta@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T07:41:52Z,noah.bishop@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-10T07:42:39Z,noah.bishop@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T07:46:29Z,noah.bishop@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T07:46:35Z,arjun.mehta@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T07:58:39Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T07:59:36Z,ryan.boyd@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T08:03:10Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T08:05:34Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T08:07:15Z,isla.grant@cloudora.io,SharePoint Online,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T08:14:29Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T08:17:10Z,joel.kerr@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T08:17:14Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T08:21:40Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T08:21:56Z,seth.lane@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T08:22:24Z,lucas.ford@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T08:27:48Z,felix.hart@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T08:31:47Z,maya.chen@cloudora.io,Cloudora Admin Portal,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T08:32:10Z,isla.grant@cloudora.io,Outlook Web,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T08:35:12Z,lucas.ford@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T08:35:39Z,omar.farah@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T08:41:00Z,daniel.reeve@cloudora.io,Microsoft 365,203.0.113.11,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T08:44:58Z,joel.kerr@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T08:49:16Z,aria.reid@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T08:51:38Z,dina.said@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T08:53:43Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T09:04:09Z,seth.lane@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,50126,Invalid username or password,Android 14,Chrome Mobile
+2026-08-10T09:04:35Z,seth.lane@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T09:05:33Z,adam.clark@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T09:07:57Z,daniel.reeve@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T09:10:42Z,aria.reid@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T09:19:36Z,leah.stone@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T09:20:17Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T09:21:59Z,finn.gale@cloudora.io,Microsoft 365,198.51.100.24,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T09:22:21Z,alba.vega@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T09:23:04Z,emma.hayes@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T09:23:30Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T09:38:46Z,omar.farah@cloudora.io,Azure Portal,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-10T09:44:44Z,daniel.reeve@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T09:47:09Z,freya.lynn@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T09:47:56Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T09:51:50Z,lucas.ford@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T09:53:40Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T09:55:09Z,jude.ross@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T09:56:00Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T09:59:00Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T10:06:50Z,felix.hart@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T10:15:25Z,omar.farah@cloudora.io,Outlook Web,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-10T10:17:03Z,lena.voss@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T10:18:06Z,daniel.reeve@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T10:18:36Z,olivia.kaur@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T10:36:10Z,lena.voss@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T10:45:33Z,dina.said@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T10:45:54Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T10:51:56Z,rhys.owen@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T10:53:35Z,joel.kerr@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T10:59:03Z,maya.chen@cloudora.io,Microsoft 365,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T11:05:50Z,nina.cole@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-10T11:06:32Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T11:06:47Z,jude.ross@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T11:09:11Z,leah.stone@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T11:10:15Z,dean.page@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T11:12:12Z,ruth.dean@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T11:13:47Z,cole.burke@cloudora.io,Microsoft 365,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T11:14:09Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T11:20:15Z,seth.lane@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T11:20:57Z,priya.nair@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T11:21:33Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,50126,Invalid username or password,Android 14,Chrome Mobile
+2026-08-10T11:22:14Z,emma.hayes@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T11:22:54Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T11:22:57Z,james.holt@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T11:27:27Z,hugo.marsh@cloudora.io,Cloudora Admin Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T11:30:54Z,jude.ross@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T11:30:54Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T11:36:32Z,alba.vega@cloudora.io,Microsoft 365,198.51.100.22,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T11:41:26Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T11:49:22Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T11:49:24Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T11:55:46Z,hugo.marsh@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T12:05:17Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T12:06:41Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T12:07:13Z,finn.gale@cloudora.io,Microsoft 365,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T12:07:38Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T12:08:41Z,ryan.boyd@cloudora.io,Microsoft 365,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T12:10:06Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T12:26:22Z,gwen.muir@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T12:28:19Z,ruth.dean@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T12:30:48Z,ethan.wells@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T12:37:14Z,seth.lane@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T12:37:27Z,omar.farah@cloudora.io,Cloudora Admin Portal,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-10T12:40:47Z,amelia.frost@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T12:40:52Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T12:54:25Z,priya.nair@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T12:55:41Z,dina.said@cloudora.io,Cloudora Admin Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T13:01:36Z,noah.bishop@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T13:02:37Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T13:03:52Z,ruth.dean@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T13:07:40Z,sofia.marino@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T13:08:11Z,leah.stone@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T13:11:20Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T13:13:23Z,maya.chen@cloudora.io,Microsoft Teams,203.0.113.11,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T13:15:27Z,alba.vega@cloudora.io,SharePoint Online,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T13:16:27Z,lucas.ford@cloudora.io,Outlook Web,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T13:29:26Z,gwen.muir@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T13:31:57Z,maya.chen@cloudora.io,Azure Portal,203.0.113.11,London,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-10T13:33:07Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T13:35:09Z,cole.burke@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T13:38:42Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T13:40:20Z,seth.lane@cloudora.io,Microsoft Teams,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T13:45:20Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T13:47:28Z,gwen.muir@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T13:47:50Z,james.holt@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T13:47:53Z,maya.chen@cloudora.io,Microsoft Teams,203.0.113.11,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T13:48:55Z,tara.kemp@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T13:49:33Z,chloe.price@cloudora.io,Cloudora Admin Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T13:50:55Z,hugo.marsh@cloudora.io,Outlook Web,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T13:52:54Z,dean.page@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T13:54:29Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T13:54:50Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T14:01:12Z,omar.farah@cloudora.io,Azure Portal,185.93.245.66,Dubai,United Arab Emirates,0,Success,iOS 17,Mobile Safari
+2026-08-10T14:01:19Z,felix.hart@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T14:03:15Z,amelia.frost@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T14:04:13Z,arjun.mehta@cloudora.io,Outlook Web,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T14:06:30Z,amelia.frost@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T14:09:44Z,rhys.owen@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T14:10:29Z,joel.kerr@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T14:13:03Z,daniel.reeve@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T14:15:38Z,tara.kemp@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T14:18:53Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T14:19:49Z,gwen.muir@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T14:19:56Z,olivia.kaur@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T14:22:37Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T14:35:35Z,aria.reid@cloudora.io,SharePoint Online,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T14:38:05Z,freya.lynn@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T14:39:27Z,rhys.owen@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T14:50:46Z,hugo.marsh@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T14:50:51Z,isla.grant@cloudora.io,Microsoft 365,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T14:51:32Z,leah.stone@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T14:51:37Z,zara.aziz@cloudora.io,Cloudora Admin Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T14:54:03Z,lena.voss@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T14:54:31Z,emma.hayes@cloudora.io,SharePoint Online,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T14:56:48Z,nina.cole@cloudora.io,Cloudora Admin Portal,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,Windows 11,Chrome 126
+2026-08-10T14:57:15Z,nina.cole@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T14:58:30Z,felix.hart@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T14:59:13Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T15:00:24Z,zara.aziz@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T15:00:25Z,liam.doyle@cloudora.io,SharePoint Online,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T15:01:09Z,felix.hart@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T15:01:30Z,zara.aziz@cloudora.io,Microsoft 365,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T15:23:04Z,zara.aziz@cloudora.io,Azure Portal,203.0.113.16,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T15:23:05Z,adam.clark@cloudora.io,Outlook Web,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T15:23:50Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T15:24:15Z,sofia.marino@cloudora.io,Microsoft Teams,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T15:24:26Z,james.holt@cloudora.io,Microsoft 365,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T15:34:33Z,nina.cole@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T15:47:42Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T15:49:00Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T15:49:57Z,ruth.dean@cloudora.io,Azure Portal,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T15:51:09Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T15:56:17Z,amelia.frost@cloudora.io,Cloudora Admin Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T15:56:55Z,olivia.kaur@cloudora.io,Microsoft Teams,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T16:12:10Z,cole.burke@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T16:14:17Z,adam.clark@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T16:16:46Z,ethan.wells@cloudora.io,Microsoft 365,192.0.2.30,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T16:17:54Z,daniel.reeve@cloudora.io,Azure Portal,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T16:18:01Z,omar.farah@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T16:19:50Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T16:24:42Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T16:24:42Z,gwen.muir@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T16:25:58Z,zara.aziz@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T16:26:48Z,mira.shah@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T16:28:00Z,liam.doyle@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T16:32:38Z,maya.chen@cloudora.io,SharePoint Online,203.0.113.11,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T16:36:53Z,lena.voss@cloudora.io,SharePoint Online,192.0.2.32,Austin,United States,0,Success,iOS 17,Mobile Safari
+2026-08-10T16:39:36Z,leah.stone@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T16:40:28Z,kian.patel@cloudora.io,Cloudora Admin Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T16:44:06Z,isla.grant@cloudora.io,Azure Portal,203.0.113.15,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T16:45:46Z,dean.page@cloudora.io,Azure Portal,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T16:54:54Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,50126,Invalid username or password,Android 14,Chrome Mobile
+2026-08-10T16:55:52Z,alba.vega@cloudora.io,Outlook Web,198.51.100.22,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T16:58:51Z,chloe.price@cloudora.io,Azure Portal,203.0.113.17,London,United Kingdom,50126,Invalid username or password,macOS 14,Safari 17
+2026-08-10T16:58:51Z,joel.kerr@cloudora.io,Microsoft 365,192.0.2.31,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T16:59:12Z,chloe.price@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T17:01:04Z,olivia.kaur@cloudora.io,Azure Portal,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T17:06:35Z,rhys.owen@cloudora.io,Cloudora Admin Portal,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T17:06:59Z,adam.clark@cloudora.io,Azure Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T17:12:40Z,tara.kemp@cloudora.io,Microsoft Teams,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T17:13:53Z,dean.page@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T17:22:29Z,cole.burke@cloudora.io,Cloudora Admin Portal,192.0.2.32,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T17:23:18Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,50126,Invalid username or password,iOS 17,Mobile Safari
+2026-08-10T17:24:16Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T17:29:16Z,alba.vega@cloudora.io,Azure Portal,198.51.100.22,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T17:41:11Z,aria.reid@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T17:41:27Z,tara.kemp@cloudora.io,SharePoint Online,203.0.113.14,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T17:50:15Z,finn.gale@cloudora.io,SharePoint Online,198.51.100.24,Manchester,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T17:51:17Z,isla.grant@cloudora.io,Azure Portal,203.0.113.15,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T17:52:17Z,ryan.boyd@cloudora.io,Azure Portal,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T17:54:50Z,kian.patel@cloudora.io,SharePoint Online,192.0.2.31,Austin,United States,0,Success,Android 14,Chrome Mobile
+2026-08-10T17:55:20Z,daniel.reeve@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T18:02:15Z,freya.lynn@cloudora.io,Azure Portal,198.51.100.20,Manchester,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T18:06:21Z,priya.nair@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T18:09:30Z,kian.patel@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T18:12:40Z,mira.shah@cloudora.io,Microsoft Teams,192.0.2.31,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T18:15:54Z,omar.farah@cloudora.io,Microsoft Teams,203.0.113.10,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T18:17:59Z,adam.clark@cloudora.io,Cloudora Admin Portal,192.0.2.30,Austin,United States,0,Success,Windows 11,Chrome 126
+2026-08-10T18:21:18Z,ryan.boyd@cloudora.io,Cloudora Admin Portal,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T18:34:05Z,ethan.wells@cloudora.io,SharePoint Online,192.0.2.30,Austin,United States,0,Success,macOS 14,Safari 17
+2026-08-10T18:39:17Z,maya.chen@cloudora.io,Microsoft Teams,203.0.113.11,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T18:39:58Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T18:40:49Z,ruth.dean@cloudora.io,Outlook Web,192.0.2.32,Austin,United States,0,Success,Windows 11,Edge 126
+2026-08-10T18:43:09Z,hugo.marsh@cloudora.io,Microsoft Teams,198.51.100.20,Manchester,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T18:45:58Z,sofia.marino@cloudora.io,Microsoft 365,203.0.113.17,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T18:45:58Z,omar.farah@cloudora.io,SharePoint Online,203.0.113.10,London,United Kingdom,0,Success,iOS 17,Mobile Safari
+2026-08-10T18:50:03Z,zara.aziz@cloudora.io,SharePoint Online,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T18:54:13Z,arjun.mehta@cloudora.io,Microsoft Teams,203.0.113.16,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T19:01:43Z,liam.doyle@cloudora.io,Outlook Web,203.0.113.17,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T19:02:32Z,gwen.muir@cloudora.io,Outlook Web,203.0.113.12,London,United Kingdom,0,Success,Windows 11,Chrome 126
+2026-08-10T19:02:51Z,noah.bishop@cloudora.io,Microsoft 365,203.0.113.13,London,United Kingdom,50126,Invalid username or password,Windows 11,Edge 126
+2026-08-10T19:03:47Z,noah.bishop@cloudora.io,Outlook Web,203.0.113.13,London,United Kingdom,0,Success,Windows 11,Edge 126
+2026-08-10T19:06:53Z,aria.reid@cloudora.io,Microsoft Teams,203.0.113.13,London,United Kingdom,0,Success,Android 14,Chrome Mobile
+2026-08-10T19:15:03Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,50126,Invalid username or password,Windows 10,Edge 126
+2026-08-10T19:15:38Z,tara.kemp@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,Windows 10,Edge 126
+2026-08-10T19:18:58Z,gwen.muir@cloudora.io,Microsoft 365,203.0.113.12,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T19:23:37Z,dean.page@cloudora.io,Outlook Web,192.0.2.31,Austin,United States,0,Success,Windows 10,Edge 126
+2026-08-10T19:24:11Z,amelia.frost@cloudora.io,Azure Portal,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
+2026-08-10T19:29:20Z,amelia.frost@cloudora.io,Outlook Web,203.0.113.14,London,United Kingdom,0,Success,macOS 14,Safari 17
